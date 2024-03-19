@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="ProductName">Product Name</string>
+    <string name="PriceDesc">Price</string>
+    <string name="submitDesc">submit</string>
+</resources>
